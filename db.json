@@ -1,12 +1,10 @@
 {
-  metaData : {
-    col1 : 'val1',
-    col2 : 'val2',
-    col3 : 'val3'  
-  },
-  data : {
-   row1 : [a,b,c],
-   row2 : [d,e,f]
-  }
 
+  "Metadata" : [
+    "Column1","Column2","Column3"
+  ], 
+  "Data" : {
+    
+  }
+  
 }
