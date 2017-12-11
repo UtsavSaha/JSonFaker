@@ -1,10 +1,9 @@
 {
-
   "Metadata" : [
     "Column1","Column2","Column3"
   ], 
   "Data" : {
-    
+    "Row1" : ["Val1","Val2","Val3"],
+    "Row2" : ["Val4","Val5","Val6"]
   }
-  
 }
